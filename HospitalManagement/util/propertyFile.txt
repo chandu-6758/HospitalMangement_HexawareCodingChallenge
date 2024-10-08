@@ -1,0 +1,6 @@
+Driver={SQL Server}
+host=Chandana\SQLEXPRESS
+database=Hospital_Management
+user=Chandana
+password=Chandana03
+port=1433
