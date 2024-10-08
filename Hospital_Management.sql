@@ -66,14 +66,14 @@ select * from Doctor;
 
 Insert into appointment(appointmentId,patientId,doctorId,appointmentDate,description)
 Values
-(1,	'P10',	'D07',	'2024-10-28 10:30',	'Hair loss'),
-(10,'P7','D08',	'2024-10-13 11:00','Arthritis'),
-(2,	'P8','D09','2024-11-02 10:30','Stomach Ache'),
-(3,	'P1','D10',	'2024-10-17 9:30','diabetes'),
-(4,	'P3','D03',	'2024-10-11 12:00','Surgery'),
-(5,	'P4','D07','2024-10-29 11:30','Hair loss'),
-(6,	'P5','D02',	'2024-11-03 10:30','Migrane'),
-(7,'P6'	,'D01'	,'2024-11-01 11:00','Hyper Tension'),
+(1,'P10','D07','2024-10-28 10:30','Hair loss'),
+(10,'P7','D08','2024-10-13 11:00','Arthritis'),
+(2,'P8','D09','2024-11-02 10:30','Stomach Ache'),
+(3,'P1','D10','2024-10-17 9:30','diabetes'),
+(4,'P3','D03','2024-10-11 12:00','Surgery'),
+(5,'P4','D07','2024-10-29 11:30','Hair loss'),
+(6,'P5','D02','2024-11-03 10:30','Migrane'),
+(7,'P6'	,'D01','2024-11-01 11:00','Hyper Tension'),
 (8,'P9'	,'D07','2024-10-30 12:00','Hair loss'),
 (9,'P2','D04','2024-10-12 12:00','Allergy');
 
